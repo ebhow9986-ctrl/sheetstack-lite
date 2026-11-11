@@ -1,0 +1,9 @@
+﻿customer_id,signup_date,city,notes,points
+U001,2026/2/1, Tokyo ,paid,120
+U001,2026/2/1,Tokyo,paid,120
+U002,20260203,Osaka, pending ,０８
+,,,,
+U003,2026年2月8日,Nagoya　,follow-up,56
+U003,2026年2月8日,Nagoya,follow-up,56
+U004,2026-02-11,Fukuoka,shipped,230
+U005,2/15/2026,Sapporo,address needed,15
